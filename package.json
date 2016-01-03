@@ -1,6 +1,6 @@
 {
   "name": "serve-webpack-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper for serving webpack-bundled client code from a nodejs/express server.",
   "main": "index.js",
   "scripts": {
