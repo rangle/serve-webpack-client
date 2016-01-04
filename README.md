@@ -2,7 +2,7 @@
 
 Helper module for serving webpack-related client code from a nodejs server.
 
-[webpack](http://webpack.github.io) is a great tool. So is
+[Webpack](http://webpack.github.io) is a great tool. So is
 [Express](http://expressjs.com).
 
 However using them together took some thinking given that I typically:
@@ -10,8 +10,8 @@ However using them together took some thinking given that I typically:
 * serve single-page applications (e.g. in ReactJS or AngularJS)
 * want to use the HTML5 history API to avoid the ugly '#' in my URLs.
 * want to use an express server to serve up both the client and a backend REST API.
-* want the express server configured to do handle deep-linking for my app's routes
-* want to serve the app from static files in production, but from webpack's watcher
+* want the express server configured to handle deep-linking for my app's routes
+* want to serve the app from static files in production, but from Webpack's watcher
 when I'm in developer mode.
 
 This module is the special sauce I need to do all this stuff at once.

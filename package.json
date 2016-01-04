@@ -1,6 +1,6 @@
 {
   "name": "serve-webpack-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Helper for serving webpack-bundled client code from a nodejs/express server.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SethDavenport/serve-webpack-client.git"
+    "url": "git+https://github.com/rangle/serve-webpack-client.git"
   },
   "keywords": [
     "webpack",
@@ -21,9 +21,9 @@
   "author": "seth@rangle.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SethDavenport/serve-webpack-client/issues"
+    "url": "https://github.com/rangle/serve-webpack-client/issues"
   },
-  "homepage": "https://github.com/SethDavenport/serve-webpack-client#readme",
+  "homepage": "https://github.com/rangle/serve-webpack-client#readme",
   "dependencies": {
     "express": "^4.13.3",
     "webpack": "^1.12.9",
