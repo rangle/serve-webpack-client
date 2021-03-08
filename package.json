@@ -26,7 +26,7 @@
   "homepage": "https://github.com/rangle/serve-webpack-client#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "webpack": "^1.12.9",
+    "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0",
     "winston": "^2.1.1"
